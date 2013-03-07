@@ -2,6 +2,8 @@
 
 This class allows you to get a notification email when an item becomes available online.
 
+___
+
 
 ## Setting the variables
 
@@ -10,7 +12,6 @@ This class allows you to get a notification email when an item becomes available
 3. Email address to be notified
 4. Subject line in the email
 
-___
 
 ## Example Usage:
 
