@@ -74,7 +74,7 @@ class notify{
 		$headers = "From: ".$this->email." \r\nReply-To: ".$this->email." \r\nReturn-Path: ".$this->email." \r\n";
 		$msg = $e_body . $e_content . $e_reply;
 		if(mail($this->email, $this->subject, $msg, $headers)):	
-			 return true;
+			return true;
 		else:
 			return false;
 		endif;
