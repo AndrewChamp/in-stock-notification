@@ -2,6 +2,14 @@
 
 This class allows you to get a notification email when an item becomes available online.
 
+
+## Setting the variables
+
+1st: URL
+2nd: Word(s) you're looking for
+3rd: Email address to be notified
+4th: Subject line in the email
+
 ___
 
 ## Example Usage:
