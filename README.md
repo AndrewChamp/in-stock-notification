@@ -2,8 +2,6 @@
 
 This class allows you to get a notification email when an item becomes available online.  Just set a Cron-Job on the file to check every hour.
 
-___
-
 
 ## Setting the variables
 
